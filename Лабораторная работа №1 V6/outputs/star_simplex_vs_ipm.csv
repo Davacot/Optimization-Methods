@@ -1,0 +1,7 @@
+method,scenario,status_code,status,success,time_ms,iterations,objective,feasible_check,max_violation
+highs-ds,base,0,optimal,True,4.1395,31,318330.7200000001,True,0.0
+highs-ipm,base,0,optimal,True,4.3707,9,318330.7200000001,True,0.0
+highs-ds,deficit,0,optimal,True,3.5088,34,323764.32000000007,True,0.0
+highs-ipm,deficit,0,optimal,True,3.0544,9,323764.32000000007,True,0.0
+highs-ds,stress,0,optimal,True,2.6223,42,396541.0740000001,True,0.0
+highs-ipm,stress,0,optimal,True,4.1992,7,396541.0740000001,True,0.0

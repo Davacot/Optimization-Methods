@@ -1,0 +1,95 @@
+{
+  "variant": 6,
+  "seed": 10117,
+  "units": {
+    "power": "MW",
+    "energy": "MWh",
+    "cost": "currency_units"
+  },
+  "hours": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+  ],
+  "stations": [
+    {
+      "name": "NPP",
+      "cost_per_mwh": 18.0,
+      "hourly_capacity_mw": 300.0
+    },
+    {
+      "name": "Coal",
+      "cost_per_mwh": 42.0,
+      "hourly_capacity_mw": 260.0
+    },
+    {
+      "name": "CCGT",
+      "cost_per_mwh": 36.0,
+      "hourly_capacity_mw": 220.0
+    },
+    {
+      "name": "Hydro",
+      "cost_per_mwh": 24.0,
+      "hourly_capacity_mw": 120.0
+    },
+    {
+      "name": "Peaker",
+      "cost_per_mwh": 78.0,
+      "hourly_capacity_mw": 180.0
+    }
+  ],
+  "demand_mwh_by_hour": [
+    421.98,
+    411.88,
+    388.64,
+    390.07,
+    377.93,
+    407.56,
+    426.19,
+    474.48,
+    527.18,
+    563.92,
+    572.45,
+    590.73,
+    618.11,
+    610.2,
+    600.91,
+    582.73,
+    593.43,
+    640.54,
+    693.87,
+    733.58,
+    700.12,
+    645.25,
+    574.62,
+    500.59
+  ],
+  "daily_energy_limit_mwh": {
+    "NPP": 7200.0,
+    "Coal": 5040.0,
+    "CCGT": 3960.0,
+    "Hydro": 1920.0,
+    "Peaker": 1560.0
+  }
+}

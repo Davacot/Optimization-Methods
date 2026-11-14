@@ -1,0 +1,17 @@
+{
+  "scenario": "deficit",
+  "status_code": 0,
+  "status_name": "optimal",
+  "status_text": "Optimization terminated successfully. (HiGHS Status 7: Optimal)",
+  "success": true,
+  "nit": 34,
+  "fun": 323764.32000000007,
+  "algorithm": "highs-ds",
+  "presolve": true,
+  "independent_check": {
+    "feasible": true,
+    "max_constraint_violation": 0.0,
+    "recomputed_objective": 323764.32,
+    "active_constraints_count": 71
+  }
+}

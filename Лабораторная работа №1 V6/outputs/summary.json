@@ -1,0 +1,30 @@
+{
+  "variant": 6,
+  "seed": 10117,
+  "scenarios": [
+    {
+      "scenario": "base",
+      "status": "optimal",
+      "objective": 318330.7200000001,
+      "feasible_check": true,
+      "max_violation": 0.0,
+      "note": "ok"
+    },
+    {
+      "scenario": "deficit",
+      "status": "optimal",
+      "objective": 323764.32000000007,
+      "feasible_check": true,
+      "max_violation": 0.0,
+      "note": "ok"
+    },
+    {
+      "scenario": "stress",
+      "status": "optimal",
+      "objective": 396541.0740000001,
+      "feasible_check": true,
+      "max_violation": 0.0,
+      "note": "ok"
+    }
+  ]
+}

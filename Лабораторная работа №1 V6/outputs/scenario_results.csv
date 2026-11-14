@@ -1,0 +1,4 @@
+scenario,status,objective,feasible_check,max_violation,note
+base,optimal,318330.7200000001,True,0.0,ok
+deficit,optimal,323764.32000000007,True,0.0,ok
+stress,optimal,396541.0740000001,True,0.0,ok

@@ -1,0 +1,4 @@
+scenario,feasible,max_constraint_violation,objective_recomputed,active_constraints_count
+base,True,0.0,318330.72,71
+deficit,True,0.0,323764.32,71
+stress,True,0.0,396541.074,75
